@@ -1,4 +1,4 @@
-🖤 Hi, I'm Katua, 19 y.o.
+🖤 Hi, I'm Katua, 20 y.o.
 - Saint-Petersburg, Russia
 - HTLM, CSS, JS, React
 - You can find me on Instagram @fvckate 🥰
