@@ -1,7 +1,6 @@
 🖤 Hi, I'm Katua, 20 y.o.
 - Saint-Petersburg, Russia
 - HTLM, CSS, JS, React
-- You can find me on Instagram @fvckate 🥰
 
 <!---
 flogea/flogea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
