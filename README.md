@@ -6,9 +6,9 @@
 
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <ul>
-  <li>💜 I'm 21 y.o.</li>
-  <li>💜 Saint-Petersburg, Russia</li>
-  <li>💜 Student of SPbSUT, 3rd grade</li>
+  <li>💜 ɪ'ᴍ 21 ʏ.ᴏ.</li>
+  <li>💜 sᴀɪɴᴛ-ᴘᴇᴛᴇʀsʙᴜʀɢ, ʀᴜssɪᴀ</li>
+  <li>💜 sᴛᴜᴅᴇɴᴛ ᴏғ sᴘʙsᴜᴛ, 3ʀᴅ ɢʀᴀᴅᴇ</li>
 </ul>
 
 <!-- ## Languages and Tools: -->
