@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--
-**flogea/flogea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a background="#FF8BC8" href="https://vk.com/flogea" target="_blank">ᴋᴀᴛᴜᴀ</a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=9c89e9&background=FFFFFF00&vCenter=true&width=435&lines=Beginner+front-end+web+developer" alt="Typing SVG" /></a></h1>
+<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
 
-Here are some ideas to get you started:
+<h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
+<ul>
+  <li>💜 I'm 21 y.o.</li>
+  <li>💜 Saint-Petersburg, Russia</li>
+  <li>💜 Student of SPbSUT, 3rd grade</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## Languages and Tools: -->
+<h2>ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ </h2>
+
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=764ABC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=CC6699)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=Node.JS&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=339933)
+![MongoDb](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=MongoDb&logoColor=47A248)
+
+<!-- ## Socials: -->
+
+<h2>ꜱᴏᴄɪᴀʟꜱ</h2>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fuckatu)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=FF239EFF)](https://www.instagram.com/fvckate)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/flogea)
