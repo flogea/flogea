@@ -30,3 +30,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fuckatu)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=FF239EFF)](https://www.instagram.com/fvckate)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/flogea)
+
+
+![](https://komarev.com/ghpvc/?username=flogea&color=9C89E9&label=👀&style=for-the-badge)
