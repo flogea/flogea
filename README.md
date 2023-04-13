@@ -32,4 +32,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/flogea)
 
 
-![](https://komarev.com/ghpvc/?username=flogea&color=9C89E9&label=ᴅᴇᴛᴇᴄᴛᴇᴅ👀&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=flogea&color=9C89E9&label=DETECTED 👀&style=for-the-badge)
