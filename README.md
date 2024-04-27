@@ -1,14 +1,13 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="left">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a background="#FF8BC8" href="https://vk.com/flogea" target="_blank">ᴋᴀᴛᴜᴀ</a> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=9C89E9&vCenter=true&width=435&lines=%CA%99%E1%B4%87%C9%A2%C9%A2%C9%AA%C9%B4%E1%B4%87%CA%80+%D2%93%CA%80%E1%B4%8F%C9%B4%E1%B4%9B-%E1%B4%87%C9%B4%E1%B4%85+%E1%B4%A1%E1%B4%87%CA%99+%E1%B4%85%E1%B4%87%E1%B4%A0%E1%B4%87%CA%9F%E1%B4%8F%E1%B4%98%E1%B4%87%CA%80" alt="Typing SVG" /></a></h1>
-<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
+<h1 align="left">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a background="#FF8BC8" href="https://t.me/fuckatu" target="_blank">ᴋᴀᴛᴜᴀ</a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9C89E9&random=false&width=435&lines=front-end+developer" alt="Typing SVG" /></a></h1>
 
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <ul>
   <li>💜 ɪ'ᴍ 22 ʏ.ᴏ.</li>
   <li>💜 sᴀɪɴᴛ-ᴘᴇᴛᴇʀsʙᴜʀɢ, ʀᴜssɪᴀ</li>
-  <li>💜 3ʀᴅ ʏᴇᴀʀ sᴛᴜᴅᴇɴᴛ ᴏғ sᴘʙsᴜᴛ</li>
+  <li>💜 4th ʏᴇᴀʀ sᴛᴜᴅᴇɴᴛ ᴏғ sᴘʙsᴜᴛ</li>
 </ul>
 
 <!-- ## Languages and Tools: -->
