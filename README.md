@@ -5,9 +5,9 @@
 
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <ul>
-  <li>💜 ɪ'ᴍ 22 ʏ.ᴏ.</li>
+  <li>💜 ɪ'ᴍ 23 ʏ.ᴏ.</li>
   <li>💜 sᴀɪɴᴛ-ᴘᴇᴛᴇʀsʙᴜʀɢ, ʀᴜssɪᴀ</li>
-  <li>💜 4th ʏᴇᴀʀ sᴛᴜᴅᴇɴᴛ ᴏғ sᴘʙsᴜᴛ</li>
+  <li>💜 software engineering graduate</li>
 </ul>
 
 <!-- ## Languages and Tools: -->
